@@ -6,3 +6,9 @@ Git 仓库代码同步工具
 ``` shell
 python sync.py <source repo> <target repo>
 ```
+
+示例：
+
+``` shell
+python sync.py git@site-a.com:wzpan/repo.git git@site-b.com:wzpan/repo.git
+```
